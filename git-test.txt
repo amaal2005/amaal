@@ -1,18 +1,1 @@
-git test
-eeeeee
-he
-yyygit 
-h het you 
-<<<<<<< HEAD
-
-=======
-amaal feras
->>>>>>> dcde81049924bba2d0ee15267656f44d56b540ce
-<<<<<<< HEAD
-غغغغ
-=======
-ppppppiiiiiii
->>>>>>> 4a1f98b8d976e1f786aa1132cafd5527aa7b0938
-uuuuuuuuuuuuuuuuuu
-
-ععع
+i love you
