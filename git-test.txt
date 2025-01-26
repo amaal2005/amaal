@@ -1,4 +1,8 @@
 git test
 eeeeee
 he
+<<<<<<< HEAD
 yyygit 
+=======
+yyygit 
+>>>>>>> dbdd12a7446effd315604ddd02e5c8b4227da74e
